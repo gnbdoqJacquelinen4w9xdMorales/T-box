@@ -6,3 +6,6 @@ TaskBit simplifies task management with a clean interface and powerful filtering
 - Task prioritization
 - Custom tags and filters
 - Exportable reports
+## Installation
+1. Clone the repository: `git clone https://github.com/user/taskbit.git`
+2. Install dependencies: `npm install`
