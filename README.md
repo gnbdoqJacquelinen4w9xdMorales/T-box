@@ -12,3 +12,6 @@ TaskBit simplifies task management with a clean interface and powerful filtering
 ## Quick Start
 Run TaskBit with: `npm start`
 Access it at: `http://localhost:3000`.
+## System Requirements
+- Node.js 16.0+
+- Modern web browser (Chrome, Firefox, Edge)
