@@ -17,3 +17,5 @@ Access it at: `http://localhost:3000`.
 - Modern web browser (Chrome, Firefox, Edge)
 ## Usage Example
 
+## Contributing
+Contributions are encouraged! Review [CONTRIBUTING.md](CONTRIBUTING.md) for details.
