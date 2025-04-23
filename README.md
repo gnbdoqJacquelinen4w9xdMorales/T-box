@@ -21,3 +21,5 @@ Access it at: `http://localhost:3000`.
 Contributions are encouraged! Review [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## License
 TaskBit is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+## Testing
+Run tests with: `npm test`
