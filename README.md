@@ -23,3 +23,6 @@ Contributions are encouraged! Review [CONTRIBUTING.md](CONTRIBUTING.md) for deta
 TaskBit is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Testing
 Run tests with: `npm test`
+## FAQ
+Q: Can I import tasks from other tools?
+A: Yes, see [import.md](docs/import.md) for supported formats.
