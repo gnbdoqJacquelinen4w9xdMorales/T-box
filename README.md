@@ -26,3 +26,5 @@ Run tests with: `npm test`
 ## FAQ
 Q: Can I import tasks from other tools?
 A: Yes, see [import.md](docs/import.md) for supported formats.
+## Community
+Join our community on [GitHub Discussions](https://github.com/user/taskbit/discussions).
