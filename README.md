@@ -28,3 +28,5 @@ Q: Can I import tasks from other tools?
 A: Yes, see [import.md](docs/import.md) for supported formats.
 ## Community
 Join our community on [GitHub Discussions](https://github.com/user/taskbit/discussions).
+## Troubleshooting
+Refer to [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues.
