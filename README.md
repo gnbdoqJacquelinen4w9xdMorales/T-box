@@ -30,3 +30,6 @@ A: Yes, see [import.md](docs/import.md) for supported formats.
 Join our community on [GitHub Discussions](https://github.com/user/taskbit/discussions).
 ## Troubleshooting
 Refer to [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues.
+## Roadmap
+- v1.0: Mobile app support
+- v1.1: API integration
