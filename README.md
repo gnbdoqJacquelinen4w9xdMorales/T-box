@@ -33,3 +33,4 @@ Refer to [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues.
 ## Roadmap
 - v1.0: Mobile app support
 - v1.1: API integration
+[![Build Status](https://github.com/user/taskbit/workflows/CI/badge.svg)](https://github.com/user/taskbit/actions)
